@@ -9,6 +9,8 @@
 * **Switches(x6)** - Cherry MX Compatible Mechanical Switches
 * **RGB LED(x4)** - SK6812MINI Addressable RGB LED(s)
 * **Case** - 3D printed
+* **Bolts:** M3x16 Bolt(x4)
+* **Heatset:** M3 Heatset(x4)
 
 ## PCB Layout
 * **Key Pins:** D3, D4, D2, D1, D7, D0
