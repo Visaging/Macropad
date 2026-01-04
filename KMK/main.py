@@ -11,7 +11,7 @@ tapdance = TapDance()
 keyboard.modules.append(tapdance)
 
 rgb = RGB(
-    pixel_pin=board.TX,
+    pixel_pin=board.D6,
     num_pixels=4,
     val_limit=150,
     animation_mode=AnimationModes.RAINBOW,
@@ -41,4 +41,5 @@ keyboard.keymap = [
 ]
 
 if __name__ == "__main__":
+
     keyboard.go()
