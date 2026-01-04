@@ -7,7 +7,7 @@
 ## Components Used
 * **Microcontroller** - Seeed Studio XIAO RP2040
 * **Switches(x6)** - Cherry MX Compatible Mechanical Switches
-* **RGB LED(x4)** - SK6812MINI (3535) Addressable RGB LED(s)
+* **RGB LED(x4)** - SK6812MINI Addressable RGB LED(s)
 * **Case** - 3D printed
 
 ## PCB Layout
