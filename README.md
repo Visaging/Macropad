@@ -10,7 +10,7 @@
 * **Keycaps(x6)** - Blank DSA Keycaps
 * **RGB LED(x4)** - SK6812MINI Addressable RGB LED(s)
 * **OLED Display(x1)** - SSD1306 128x32" OLED Display
-* * **Bolts:** M3x16 Bolt(x4)
+* **Bolts:** M3x16 Bolt(x4)
 * **Heatset:** M3 Heatset(x4)
 * **Case** - 3D printed
 
