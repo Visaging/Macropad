@@ -15,8 +15,9 @@
 * **Case** - 3D printed
 
 ## PCB Layout
-* **Key Pins:** D3, D4, D2, D1, D7, D0
-* **RGB:** D6
+* **Key Pins:** D0, D1, D3, D6, D7, D8
+* **RGB:** D10
+* **OLED**: SDA, SCL, 3V3
 * **Power:** VBUS (5V)
 
 ## PCB Schematic and Design
