@@ -4,13 +4,15 @@
 * Autodesk Fusion
 * Kicad 9.0
 
-## Components Used
+## BOM
 * **Microcontroller** - Seeed Studio XIAO RP2040
 * **Switches(x6)** - Cherry MX Compatible Mechanical Switches
+* **Keycaps(x6)** - Blank DSA Keycaps
 * **RGB LED(x4)** - SK6812MINI Addressable RGB LED(s)
-* **Case** - 3D printed
-* **Bolts:** M3x16 Bolt(x4)
+* **OLED Display(x1)** - SSD1306 128x32" OLED Display
+* * **Bolts:** M3x16 Bolt(x4)
 * **Heatset:** M3 Heatset(x4)
+* **Case** - 3D printed
 
 ## PCB Layout
 * **Key Pins:** D3, D4, D2, D1, D7, D0
@@ -18,11 +20,13 @@
 * **Power:** VBUS (5V)
 
 ## PCB Schematic and Design
-<img width="959" height="634" alt="image" src="https://github.com/user-attachments/assets/aa0c1f92-71c8-46f7-a8c4-2cb5e33bd1d1" />
-<img width="614" height="609" alt="image" src="https://github.com/user-attachments/assets/68540299-31ff-482f-9daa-6fd641eb6f15" />
+<img width="1085" height="642" alt="PCB Schematic" src="https://github.com/user-attachments/assets/db19332f-3e0c-4bc3-b90e-df27aba1817e" />
+<img width="1007" height="752" alt="PCB Design" src="https://github.com/user-attachments/assets/b5011c89-95e2-489d-b50a-eb3be6030e6f" />
+
 
 ## Case Model
-<img width="1291" height="727" alt="image" src="https://github.com/user-attachments/assets/b512a690-7ef7-4721-8d63-9ea1474d4f3a" />
-<img width="1291" height="727" alt="image" src="https://github.com/user-attachments/assets/e8ef38ca-ec3e-4767-83c6-5704f4b61cf2" />
+<img width="1364" height="459" alt="Bottom Case" src="https://github.com/user-attachments/assets/c924b037-8f6a-4c81-b173-d922da45b1af" />
+<img width="1364" height="459" alt="Top Case" src="https://github.com/user-attachments/assets/1a30f641-89d9-43dd-8b40-94abcab958fc" />
+
 
 
