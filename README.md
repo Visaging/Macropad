@@ -26,8 +26,8 @@
 
 
 ## Case Model
-<img width="1364" height="459" alt="Bottom Case" src="https://github.com/user-attachments/assets/c924b037-8f6a-4c81-b173-d922da45b1af" />
-<img width="1364" height="459" alt="Top Case" src="https://github.com/user-attachments/assets/1a30f641-89d9-43dd-8b40-94abcab958fc" />
-
+<img width="1420" height="632" alt="Bottom Case" src="https://github.com/user-attachments/assets/c924b037-8f6a-4c81-b173-d922da45b1af" />
+<img width="1420" height="632" alt="Top Case" src="https://github.com/user-attachments/assets/831b68ce-3d52-4865-a624-2d2b0d937b39" />
+<img width="1420" height="632" alt="Assempled Case" src="https://github.com/user-attachments/assets/40cc5bd9-c283-44b6-a8de-ec9f67399373" />
 
 
